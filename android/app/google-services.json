@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363928542978",
+    "project_id": "groceria-1f15d",
+    "storage_bucket": "groceria-1f15d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363928542978:android:2ddd2a2c0f3dd38fc92c1b",
+        "android_client_info": {
+          "package_name": "com.example.king_kalasan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFxeOaOGBP1pLbEHXKr90HWsFRQsoGmKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
